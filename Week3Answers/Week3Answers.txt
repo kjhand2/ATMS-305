@@ -1,0 +1,15 @@
+---------------------------------------------------------------
+OUTPUT FROM PROBLEM 1
+kjhand2@keeling-f01 Week3Answers: $ ./Problem1.sh Hello World. Its a 
+beautiful day.
+Your arugments: Hello World. Its a beautiful day.
+You Provided 6 arguments
+---------------------------------------------------------------
+OUTPUT FROM PROBLEM 2
+kjhand2@keeling-f01 Week3Answers: $ ls
+Problem1.sh  Problem2.sh  Week3Answers.txt  file.txt  myscript.sh
+kjhand2@keeling-f01 Week3Answers: $ ./Problem2.sh file.txt
+kjhand2@keeling-f01 Week3Answers: $ ls
+2017-01-30_11:22:35_kjhand2.txt  Problem2.sh       file.txt
+Problem1.sh                      Week3Answers.txt  myscript.sh
+---------------------------------------------------------------
