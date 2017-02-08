@@ -1,0 +1,17 @@
+---------------------------------------------------------------
+OUTPUT FROM PROBLEM 1
+kjhand2@keeling-f01 Week4Answers: $ python Problem1.py
+70 cars are not used today.
+30 cars are used today.
+The total capacity of the fleet is  120
+The average number of passengers per car is 4.0
+done with report
+kjhand2@keeling-f01 Week4Answers: $
+---------------------------------------------------------------
+OUTPUT FROM PROBLEM 2
+kjhand2@keeling-f01 Week4Answers: $ python Problem2.py 10
+The vapor pressure for  10 degrees C:  12.260206350234858 hPa.
+kjhand2@keeling-f01 Week4Answers: $ python Problem2.py 0
+The vapor pressure for  0 degrees C:  6.1094 hPa.
+kjhand2@keeling-f01 Week4Answers: $
+---------------------------------------------------------------
