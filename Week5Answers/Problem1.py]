@@ -16,6 +16,7 @@ ranking = len("ranking\t")
 year = 8
 c = len("temperature anomaly (degrees C)\t")
 f = len("temperature anomaly (degrees f)")
+print(year)
 print("Ranking	Year	Temperature Anomaly (degrees C)	Temperature Anomaly (degrees F)")
 
 for i in range(10):
