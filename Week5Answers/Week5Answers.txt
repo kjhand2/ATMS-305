@@ -1,0 +1,30 @@
+---------------------------------------------------------------
+OUTPUT FROM PROBLEM 1
+kjhand2@keeling-f01 Week5Answers: $ ls
+CMI.csv      Problem2.py       aravg.ann.land_ocean.90S.90N.v4.0.1.201612.asc
+Problem1.py  Week5Answers.txt
+kjhand2@keeling-f01 Week5Answers: $ python Problem1.py
+Ranking	Year	Temperature Anomaly (degrees C)	Temperature Anomaly (degrees F)
+1       2016    0.690951                        33.2437118
+2       2015    0.65448                         33.178064
+3       2014    0.495471                        32.8918478
+4       2010    0.456035                        32.820863
+5       2013    0.422519                        32.7605342
+6       2005    0.413196                        32.7437528
+7       2009    0.391374                        32.7044732
+8       1998    0.389096                        32.7003728
+9       2012    0.378706                        32.6816708
+10      2003    0.368062                        32.6625116
+kjhand2@keeling-f01 Week5Answers: $
+---------------------------------------------------------------
+OUTPUT FROM PROBLEM 2
+kjhand2@keeling-f01 Week5Answers: $ ls
+CMI.csv      Problem2.py       aravg.ann.land_ocean.90S.90N.v4.0.1.201612.asc
+Problem1.py  Week5Answers.txt
+kjhand2@keeling-f01 Week5Answers: $ python Problem2.py
+1. 299 reports of snow in 2016.
+2. 299/10970 readings reported snow.
+3. The highest temperature in 2016 was 93.92 degrees F on 2016-06-10 at 15:53.
+4. The mean temperature in 2016 was 54.13809115770278 degrees F.
+kjhand2@keeling-f01 Week5Answers: $
+---------------------------------------------------------------
