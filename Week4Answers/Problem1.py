@@ -8,7 +8,7 @@ used_cars = fleet - unused_cars
 
 total_capacity = used_cars * 4
 
-avg_pass = passengers / used_cars
+avg_pass = float(passengers) / used_cars
 
 print(unused_cars, 'cars are not used today.')
 
